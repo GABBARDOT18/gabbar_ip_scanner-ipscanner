@@ -126,7 +126,7 @@ Use `sudo` to run it. Do **not** run as a regular user.
 
 ## 👤 Author
 
-**Aradhye Aradhye**  
+**Onkar Aradhye**  
 Ethical Hacker | Android Dev | Linux Enthusiast
 
 📧 onkararadhye.2004@gmail.com  
